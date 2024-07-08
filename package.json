@@ -2,7 +2,7 @@
   "name": "budget-allocation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/<repository-name>",
+  "homepage": "https://github.com/tfuent1/ejtos-react_budget_app.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
